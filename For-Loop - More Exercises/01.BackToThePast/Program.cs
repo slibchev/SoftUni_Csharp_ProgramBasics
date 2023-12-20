@@ -1,7 +1,7 @@
 ﻿double money = double.Parse(Console.ReadLine());    
 int year = int.Parse(Console.ReadLine());
 
-
+// JUST TESTING
 int IvanchoAge = 18;
 
 for (int i = 1800; i <= year; i++)
